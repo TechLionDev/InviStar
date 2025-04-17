@@ -1,0 +1,5 @@
+﻿name,contact,phone,email,addressStreet,addressCity,addressState,addressZip,terms,notes
+Acme Corporation,John Smith,+12025550123,jsmith@acme.com,123 Main St,New York,NY,10001,Net30,Note 1
+TechSolutions Inc.,Lisa Johnson,+14155556789,ljohnson@techsolutions.com,456 Market St,San Francisco,CA,94103,COD,Note 2
+Global Shipping Co.,Mark Williams,+17035551234,mwilliams@globalshipping.com,789 Harbor Way,Seattle,WA,98101,Net60,Note 3
+Midwest Supplies,Sarah Brown,+13125557890,sbrown@midwestsupplies.com,321 Oak Drive,Chicago,IL,60007,Credit Card,Note 4
